@@ -2,7 +2,9 @@
 
 A terminal application, used to control playback of spotify.
 
-Implemented in Haskell, and built as an extension to [Haskify](https://github.com/sw3dish/haskify).
+![](img.png)
+
+Implemented in Haskell, and built as an extension to [Haskify](https://github.com/sw3dish/haskify). Endpoint were added to Haskify to interact with the spotify player, allowing for control over playback.
 
 The libraries Aeson and Wreq are used to interact with the spotify API.
 
